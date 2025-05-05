@@ -1,0 +1,10 @@
+MONGODB_URI =mongodb+srv://naviyadharshini33:Zo8Lm3PtNJc8mcm9@student.q8d5haf.mongodb.net/studentdb?retryWrites=true&w=majority&appName=student
+
+
+
+
+
+
+
+
+
